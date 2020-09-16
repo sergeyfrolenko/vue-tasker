@@ -3,7 +3,7 @@
     <div class="nav-wrapper">
       <router-link to="/" class="brand-logo">Tasks</router-link>
       <ul class="right hide-on-med-and-down">
-        <router-link tag="li" to="/" exact active-class="active">
+        <router-link tag="li" to="/create" exact active-class="active">
           <a href="#">Create</a>
         </router-link>
         <router-link tag="li" to="/list" active-class="active">
